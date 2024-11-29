@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**DennisAgyekum/DennisAgyekum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                              Hi 👋, I am Dennis Agyekum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+📝 Currently learning React / Node.js
+👨‍💻 Currently working on meal-sharing app
+📫 How to reach me kinggbadi@gmail.com
+📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/dennis-agyekum-83a38a33b/)
+
+[Codewars](https://www.codewars.com/users/DennisAgyekum)
+
+
+Languages and Tools:
+[docker](https://www.docker.com/)  [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [mysql](https://www.mysql.com/) [nodejs](https://nodejs.org/en) [react](https://react.dev/) [tailwind](https://tailwindcss.com/)
