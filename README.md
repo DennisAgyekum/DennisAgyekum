@@ -6,8 +6,11 @@
 
 
 .📝 Currently learning React / Node.js
+
 .👨‍💻 Currently working on meal-sharing app
+
 .📫 How to reach me kinggbadi@gmail.com
+
 .📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/dennis-agyekum-83a38a33b/)
 
 .[Codewars](https://www.codewars.com/users/DennisAgyekum)
