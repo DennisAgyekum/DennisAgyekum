@@ -7,7 +7,7 @@
 
 .📝 Currently learning React / Node.js
 
-.👨‍💻 Currently working on meal-sharing app
+.👨‍💻 Currently working on [meal-sharing-app](https://github.com/DennisAgyekum/meal-sharing)
 
 .📫 How to reach me kinggbadi@gmail.com
 
