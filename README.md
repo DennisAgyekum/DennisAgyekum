@@ -16,5 +16,5 @@
 .[Codewars](https://www.codewars.com/users/DennisAgyekum)
 
  
-Languages and Tools: [docker](https://www.docker.com/)  ![javascript(https://img.icons8.com/?size=48&id=108784&format=png)(https://www.w3schools.com/js/default.asp)] 
+Languages and Tools: [docker](https://www.docker.com/)  [![javascript](https://img.icons8.com/?size=48&id=108784&format=png)(https://www.w3schools.com/js/default.asp)]
 )(https://developer.mozilla.org/en-US/docs/Web/JavaScript) [mysql](https://www.mysql.com/) [nodejs](https://nodejs.org/en) [react](https://react.dev/) [tailwind](https://tailwindcss.com/)
